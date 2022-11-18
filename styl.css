@@ -1,0 +1,48 @@
+
+#logo{
+    background-color: RGB(162, 117, 87);
+    width: 20%;
+    height: 100px;
+}
+
+
+#menu{
+    text-align: right;
+    background-color: RGB(162, 117, 87);
+    width: 80%;
+    height: 100px;
+}
+
+#baner{
+    background-color: RGB(74, 45, 32);
+    color: white;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+#lewo{
+    background-color: RGB(162, 117, 87);
+    color: white;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+#prawo{
+    background-color: RGB(162, 117, 87);
+    color: white;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+#stopka{
+    background-color: RGB(74, 45, 32);
+    color: white;
+    width: 50%;
+    height: 500px;
+    clear: both;
+}
+
+
+
+
